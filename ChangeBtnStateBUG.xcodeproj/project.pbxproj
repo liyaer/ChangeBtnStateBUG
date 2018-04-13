@@ -101,15 +101,10 @@
 		D2DB1E032080A8F7002E2ACB /* ChangeBtnStateBUG */ = {
 			isa = PBXGroup;
 			children = (
-				D2DB1E042080A8F7002E2ACB /* AppDelegate.h */,
-				D2DB1E052080A8F7002E2ACB /* AppDelegate.m */,
 				D2DB1E072080A8F7002E2ACB /* ViewController.h */,
 				D2DB1E082080A8F7002E2ACB /* ViewController.m */,
-				D2DB1E0A2080A8F8002E2ACB /* Main.storyboard */,
-				D2DB1E0D2080A8F8002E2ACB /* Assets.xcassets */,
-				D2DB1E0F2080A8F8002E2ACB /* LaunchScreen.storyboard */,
 				D2DB1E122080A8F8002E2ACB /* Info.plist */,
-				D2DB1E132080A8F8002E2ACB /* main.m */,
+				D2DB1E362080A90A002E2ACB /* Others */,
 			);
 			path = ChangeBtnStateBUG;
 			sourceTree = "<group>";
@@ -130,6 +125,19 @@
 				D2DB1E2A2080A8F8002E2ACB /* Info.plist */,
 			);
 			path = ChangeBtnStateBUGUITests;
+			sourceTree = "<group>";
+		};
+		D2DB1E362080A90A002E2ACB /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				D2DB1E042080A8F7002E2ACB /* AppDelegate.h */,
+				D2DB1E052080A8F7002E2ACB /* AppDelegate.m */,
+				D2DB1E0A2080A8F8002E2ACB /* Main.storyboard */,
+				D2DB1E0D2080A8F8002E2ACB /* Assets.xcassets */,
+				D2DB1E0F2080A8F8002E2ACB /* LaunchScreen.storyboard */,
+				D2DB1E132080A8F8002E2ACB /* main.m */,
+			);
+			path = Others;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
